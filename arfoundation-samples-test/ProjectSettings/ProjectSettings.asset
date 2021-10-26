@@ -155,10 +155,10 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.unity.arfoundation.samples
     Standalone: com.unity.arfoundation.samples
-    iPhone: come.nimajamalian.nimapp
+    iPhone: com.yuchienlin.chloeapp
   buildNumber:
     Standalone: 0
-    iPhone: 0
+    iPhone: X8P8D8R4SZ
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
@@ -854,7 +854,14 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Analytics: 0
+    Build: 0
+    Collab: 0
+    Game Performance: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -868,11 +875,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 98e96797-5082-4473-80a0-1bbdfd47929c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Template_3D
-  organizationId: 
+  projectName: AR Foundation Samples
+  organizationId: uqqq10
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   virtualTexturingSupportEnabled: 0
